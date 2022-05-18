@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">KcalCulator</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="diagram">Diagram</string>
+    <string name="food">Foods</string>
+    <string name="name">Name</string>
+    <string name="comment">Comment</string>
+    <string name="category">When did you eat?</string>
+    <string name="calory">Calory (KCAL)</string>
+    <string name="new_food_item">Add food</string>
+    <string name="button_ok">OK</string>
+    <string name="daily_cal">Daily calory intake</string>
+    <string name="today_cal">Today`s intake</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="age">Age</string>
+    <string name="height">Height (cm)</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="sex">Sex</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="save">Save</string>
+    <string name="name_food">What did you eat? (e.g. \"1 pcs apple\")</string>
+    <string-array name="category_items">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+    </string-array>
+</resources>

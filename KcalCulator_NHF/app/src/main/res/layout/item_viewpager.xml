@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.viewpager.widget.ViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:id="@+id/vpLauncherPanels"
+    android:layout_width="match_parent"
+    android:layout_height="500dp">
+
+</androidx.viewpager.widget.ViewPager>
