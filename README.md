@@ -5,6 +5,8 @@
 
 ![](https://raw.githubusercontent.com/zsdrahos/KCAlculator/main/Kép7.png)
 
+`DOWNLOAD` : [kcalculator.apk](https://github.com/zsdrahos/KCAlculator/blob/main/kcalculator.apk)
+
 
 ### About
 Eating is always a problem, it is not always a question of how much of what you should get into your body because after a certain amount it can be poisonous. To help with this, I have developed an app, that helps you easily keep track of calories, protein and other nutritional values, that we put into our bodies every day. The purpose of this app is to make everyday life easier, even for an athlete who needs to watch how many calories they take in a day or for an everyday person who just wants to eat more calories and maintain a healthy lifestyle. 
